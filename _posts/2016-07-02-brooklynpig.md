@@ -1,10 +1,12 @@
 ---
-layout: "post"
-title: "브루클린피그 치킨버거"
+
+layout: "post"  
+title: "브루클린피그 치킨버거"  
 date: "2016-07-02 16:52"
+
 ---
 
-![Images](/media/2016/07/IMG_8739.JPG)
+![Images]({{ site.baseurl }}/media/2016/07/IMG_8739.JPG)
 
 > 치킨버거는 뭔가 살짝 매콤하네~~ #브루클린피그
 
