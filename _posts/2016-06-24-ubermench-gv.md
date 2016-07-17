@@ -6,8 +6,6 @@ date: "2016-06-24 21:19"
 
 ---
 
-![IMG_8627]({{ site.baseurl }}/media/2016/06/ubermench.JPG)
-
 ![image]({{ site.baseurl }}/media/2016/06/ubermench.JPG)
 
 > 감독님의 막(?)진행 덕분에 웃음이 끊이지 않았던, 유쾌했던 GV.  
