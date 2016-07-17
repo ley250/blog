@@ -16,8 +16,6 @@ Created at : July 08, 2016 at 06:44PM
 
 ![Images]({{ site.baseurl }}/media/2016/07/13561941_154093531678553_1951147024_n.jpg)
 
-![Images]({{ site.baseurl }}/media/2016/07/13561941_154093531678553_1951147024_n.jpg)
-
 > 브라스 3형제 의외의 귀염둥이들이었음 #사우스카니발 #함덕서우봉해변 #스테핑스톤페스티벌
 
 Created at : July 08, 2016 at 08:19PM
