@@ -8,8 +8,6 @@ date: "2016-06-25 16:06"
 
 ![Images]({{ site.baseurl }}/media/2016/06/IMG_8640.JPG)
 
-![Image]({{ site.baseurl }}/media/2016/06/IMG_8640.JPG)
-
 > 달달한작당의 구석 공간. 즐거운작당에서 아쉽게 철거한 방(?)들이 생각난다. 콘센트만 있다면 앞으로 즐거운작당 보다 더 자주 오게될듯
 
 Created at : June 25, 2016 at 04:06PM
