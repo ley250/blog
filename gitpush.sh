@@ -13,7 +13,7 @@ read input
 
 if [ $input == "y" -o $input == "Y" ]
 then
-	git push origin master
+	git push origin pages
 else
 	echo -e "\ndon't push."
 fi
