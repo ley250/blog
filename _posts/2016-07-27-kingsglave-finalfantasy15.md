@@ -19,6 +19,6 @@ Created at : July 27, 2016 at 11:41AM
 
 [킹스글레이브: 파이널 판타지 15 KINGSGLAIVE: Final Fantasy XV 공식 예고편 (한국어 CC)](http://youtu.be/aGSpVKt8zNQ)
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/aGSpVKt8zNQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/aGSpVKt8zNQ" frameborder="0" allowfullscreen=""></iframe>
 
 Liked at July 27, 2016 at 10:46AM
